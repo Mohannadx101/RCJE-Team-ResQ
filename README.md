@@ -161,6 +161,20 @@ We welcome all contributions - from bug reports to feature implementations!
      - Detailed use case explanation
      - Proposed technical approach (optional)
      - Example scenarios
-    
+
+## 📬 Contact & Questions
+
+If you have any questions or need assistance, feel free to reach out to me directly. I’m always happy to help!
+
+**Mohannad Abdallah**  
+- Email: [mohannadx101@gmail.com]  
+- GitHub: [github.com/Mohannadx101](https://github.com/Mohannadx101)  
+- LinkedIn: [linkedin.com/in/mohannad-abdallah-3571552a2](https://www.linkedin.com/in/mohannad-abdallah-3571552a2/)
+
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue)
+![Build Status](https://img.shields.io/github/workflow/status/Mohannadx101/RCJE-Team-ResQ/CI)
+![Coverage Status](https://coveralls.io/repos/github/Mohannadx101/RCJE-Team-ResQ/badge.svg)
+![GitHub stars](https://img.shields.io/github/stars/Mohannadx101/RCJE-Team-ResQ?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Mohannadx101/RCJE-Team-ResQ)
+![GitHub contributors](https://img.shields.io/github/contributors/Mohannadx101/RCJE-Team-ResQ)
