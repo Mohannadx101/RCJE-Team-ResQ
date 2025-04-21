@@ -16,6 +16,7 @@ Written in **Python**, it implements advanced rescue behaviors like **victim det
 - [Team Members](#-team-members)
 - [Personal Achievement](#-personal-achievement)
 - [Contributions](#-contributions)
+- [Contact & Questions](#-contact--questions)
 
 ---
 
