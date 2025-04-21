@@ -83,7 +83,7 @@ The controller integrates with **Webots** via the **Erebus** framework, enabling
 | NumPy       | 1.23+     | Numerical operations       |
 
 
-🧠 Architecture
+##🧠 Architecture
 controller.py  
 ├── Robot Initialization  
 │   ├── Device setup (motors, sensors, lidar, camera)  
